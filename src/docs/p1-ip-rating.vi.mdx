@@ -1,0 +1,73 @@
+---
+title: "Các tiêu chuẩn (Phần 1) – Ý nghĩa của chỉ số IP"
+description: "Tìm hiểu chỉ số IP là gì, cách đánh giá mức độ bảo vệ khỏi bụi và nước, quy trình thử nghiệm và các ví dụ thực tế trong lĩnh vực điện tử và công nghiệp."
+date: "2025-03-23"
+---
+
+## 📘 Chỉ số IP là gì?
+
+**IP** là viết tắt của **Ingress Protection Rating** (hoặc **International Protection Rating**), biểu thị khả năng **chống xâm nhập của vật thể rắn và chất lỏng** vào thiết bị — rất quan trọng trong ngành điện, điện tử và công nghiệp.
+
+Các định dạng phổ biến: `IPX1X2` hoặc `IPA0X1X2B0`  
+Trong đó:
+
+- `X1` và `X2` là chữ số thể hiện mức bảo vệ
+- `A0` và `B0` là các ký tự tùy chọn
+
+---
+
+## 🧱 Chữ số đầu tiên (X1) – Bảo vệ khỏi vật thể rắn
+
+| Cấp độ | Mức độ bảo vệ khỏi vật thể rắn và va chạm  | Minh họa                                                                             |
+| ------ | ------------------------------------------ | ------------------------------------------------------------------------------------ |
+| 0      | Không có bảo vệ                            | –                                                                                    |
+| 1      | >50mm – bộ phận lớn như bàn tay            | <img src="/docs/p1-ip-rating/pic1.png" alt="IP1 – Bàn tay" width="40" />             |
+| 2      | >12.5mm – ngón tay, khuỷu tay              | <img src="/docs/p1-ip-rating/pic2.png" alt="IP2 – Ngón tay" width="40" />            |
+| 3      | >2.5mm – dụng cụ như kìm, bút              | <img src="/docs/p1-ip-rating/pic3.png" alt="IP3 – Dụng cụ nhỏ" width="40" />         |
+| 4      | >1mm – dây điện, tua vít                   | <img src="/docs/p1-ip-rating/pic4.png" alt="IP4 – Dây điện" width="40" />            |
+| 5      | Ngăn bụi một phần, chống va đập từ dụng cụ | <img src="/docs/p1-ip-rating/pic5.png" alt="IP5 – Bảo vệ bụi một phần" width="40" /> |
+| 6      | Chống bụi hoàn toàn, chịu được va đập mạnh | <img src="/docs/p1-ip-rating/pic6.png" alt="IP6 – Chống bụi hoàn toàn" width="40" /> |
+
+---
+
+## 💧 Chữ số thứ hai (X2) – Bảo vệ khỏi nước
+
+| Cấp độ | Mức độ bảo vệ khỏi chất lỏng       | Quy trình kiểm tra       | Minh họa                                                                             |
+| ------ | ---------------------------------- | ------------------------ | ------------------------------------------------------------------------------------ |
+| 0      | Không có bảo vệ                    | –                        | –                                                                                    |
+| 1      | Nước nhỏ thẳng đứng                | 10 phút, 1mm/phút        | <img src="/docs/p1-ip-rating/pic7.png" alt="IPX1 – Nước nhỏ thẳng" width="40" />     |
+| 2      | Nước nhỏ với góc nghiêng 15°       | 10 phút, 3mm/phút        | <img src="/docs/p1-ip-rating/pic8.png" alt="IPX2 – Góc 15 độ" width="40" />          |
+| 3      | Phun nước với góc 60°              | 5 phút, 0.7 L/phút       | <img src="/docs/p1-ip-rating/pic9.png" alt="IPX3 – Phun góc 60°" width="40" />       |
+| 4      | Tia nước từ mọi hướng              | 5 phút, 10 L/phút        | <img src="/docs/p1-ip-rating/pic10.png" alt="IPX4 – Tia nước đa hướng" width="40" /> |
+| 5      | Vòi nước áp suất từ mọi hướng      | 12.5 L/phút              | <img src="/docs/p1-ip-rating/pic11.png" alt="IPX5 – Vòi nước áp lực" width="40" />   |
+| 6      | Tia nước mạnh                      | 100 L/phút               | <img src="/docs/p1-ip-rating/pic12.png" alt="IPX6 – Tia nước mạnh" width="40" />     |
+| 7      | Ngâm nước tạm thời (độ sâu đến 1m) | 30 phút ngâm             | <img src="/docs/p1-ip-rating/pic13.png" alt="IPX7 – Ngâm tạm thời" width="40" />     |
+| 8      | Ngâm liên tục (trên 1m)            | Thời gian không giới hạn | <img src="/docs/p1-ip-rating/pic14.png" alt="IPX8 – Ngâm liên tục" width="40" />     |
+
+---
+
+## 🅰️ Các ký tự bổ sung
+
+| Ký tự | Ý nghĩa                                      |
+| ----- | -------------------------------------------- |
+| W     | Khả năng chịu thời tiết (mưa, gió, nhiệt độ) |
+| S     | Thiết bị ở trạng thái tắt khi kiểm tra       |
+| M     | Thiết bị đang hoạt động khi kiểm tra         |
+
+---
+
+## 📸 Hình ảnh minh họa
+
+<img
+  src="/docs/p1-ip-rating/pic15.png"
+  alt="Thiết bị có chỉ số IP cao – ví dụ minh họa"
+  width="600"
+  className="rounded-sm shadow-sm my-4 mx-auto"
+/>
+
+<img
+  src="/docs/p1-ip-rating/pic16.png"
+  alt="Ứng dụng thiết bị chống nước trong thực tế"
+  width="600"
+  className="rounded-sm shadow-sm my-4 mx-auto"
+/>

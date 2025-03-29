@@ -1,0 +1,123 @@
+{
+  "Footer": {
+    "companyName": "CÔNG TY TNHH HAI HAI TÁM",
+    "address": "1073/28 đường Cách Mạng Tháng 8, Phường 7, Quận Tân Bình, TP. Hồ Chí Minh, Việt Nam",
+    "telephone": "ĐIỆN THOẠI",
+    "hotline": "ĐƯỜNG DÂY NÓNG",
+    "copyright": "Bản quyền © 2026 228 Co., Ltd. Bảo lưu mọi quyền"
+  },
+  "Header": {
+    "companyName": "Công ty TNHH Hai Hai Tám"
+  },
+  "LocaleSwitcher": {
+    "locale": "{locale, select, vi {🇻🇳 VIE} en {🇺🇸 ENG} other {}}"
+  },
+  "NavBar": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "products": "Sản phẩm",
+    "customers": "Khách hàng",
+    "contact": "Liên hệ",
+    "location": "Vị trí",
+    "docs": "Tài liệu"
+  },
+  "HomePage": {
+    "title": "Xin kính chào quý khách đến thăm trang web của Công ty TNHH Hai Hai Tám",
+    "subtitle": "CÔNG TY TNHH HAI HAI TÁM CHUYÊN CUNG CẤP CÁC SẢN PHẨM CÔNG NGHIỆP VÀ CHỐNG CHÁY NỔ (PHÒNG NỔ).",
+    "exclusive": "Công ty TNHH Hai Hai Tám tự hào là nhà phân phối chính thức duy nhất các sản phẩm chống cháy nổ (phòng nổ) của ECOM Instruments (Đức) tại Việt Nam.",
+    "message1": "Rất vui khi quý khách ghé thăm trang web mới với mong muốn tìm hiểu về công ty cũng như danh mục sản phẩm phong phú của chúng tôi.",
+    "message2": "Công ty TNHH Hai Hai Tám chuyên cung cấp các sản phẩm công nghiệp chống cháy nổ và giải pháp CNTT tại Việt Nam.",
+    "message3": "Hi vọng trang web của chúng tôi là công cụ thông tin hữu ích cho quý khách."
+  },
+  "AboutPage": {
+    "title": "Giới thiệu về Công ty TNHH Hai Hai Tám",
+    "subtitle": "Công ty TNHH Hai Hai Tám là một trong những công ty hàng đầu chuyên cung cấp các thiết bị an toàn, chống cháy nổ được sử dụng trong môi trường có nguy cơ cháy nổ cao và công nghiệp khắc nghiệt như dầu khí, xăng dầu, sản xuất sơn, khai thác khoáng sản như than, kim loại, v.v... Từ năm 2006, 228 Vietnam đã xây dựng một bộ máy tổ chức chuyên nghiệp cùng đội ngũ nhân viên nhiệt huyết, năng động, sáng tạo và có trình độ chuyên môn cao.",
+    "message1": "NHỮNG DÒNG SẢN PHẨM HIỆN ĐANG ĐƯỢC PHÂN PHỐI BỞI CÔNG TY TNHH HAI HAI TÁM DÙNG TRONG MÔI TRƯỜNG CÔNG NGHIỆP, KHẮC NGHIỆT, NGUY HIỂM VÀ CHỐNG CHÁY NỔ BAO GỒM:",
+    "products": {
+      "explosionProofDeskPhone": "Điện thoại bàn: chống cháy nổ, công nghiệp",
+      "emergencyPhone": "Điện thoại khẩn cấp: dùng trong môi trường nguy hiểm",
+      "wiredPhoneSystem": "Điện thoại và hệ thống liên lạc hữu tuyến: dùng trong môi trường khắc nghiệt",
+      "paSystem": "Hệ thống âm thanh thông báo công nghiệp và chống cháy nổ",
+      "explosionProofMobilePhone": "Điện thoại di động GSM: chống cháy nổ và công nghiệp",
+      "walkieTalkie": "Máy bộ đàm: chống cháy nổ và công nghiệp",
+      "dataCollector": "Thiết bị thu thập dữ liệu: Pocket PC, PDA và phụ kiện dùng trong môi trường nguy hiểm, khắc nghiệt và chống cháy nổ",
+      "explosionProofLaptop": "Notebook, Laptop: dùng trong môi trường công nghiệp, nguy hiểm, khắc nghiệt và chống cháy nổ",
+      "explosionProofCamera": "Máy chụp ảnh (camera) chống cháy nổ",
+      "lightingDevices": "Đèn chiếu sáng các loại: đèn pin, đèn công tác, đèn chụp đầu (thợ mỏ)... dùng trong công nghiệp dầu khí, hầm mỏ, khai khoáng và chống cháy nổ",
+      "explosionProofMeasurementTools": "Các thiết bị đo đạc chống cháy nổ",
+      "industrialSockets": "Ổ cắm công nghiệp và chống cháy nổ",
+      "industrialLighting": "Hệ thống chiếu sáng bằng đèn huỳnh quang, đèn LED công nghiệp và chống cháy nổ",
+      "automationDevices": "Thiết bị tự động hóa công nghiệp và chống cháy nổ",
+      "securityCamera": "Camera An ninh công nghiệp và chống cháy nổ",
+      "controlAndConnectivity": "Thiết bị điều khiển và kết nối công nghiệp và chống cháy nổ",
+      "switchgearsAndMotors": "Switchgears và Motor công nghiệp và chống cháy nổ",
+      "explosionProofCables": "Cáp chống cháy nổ và các phụ kiện liên quan"
+    },
+    "message2": "Công ty TNHH Hai Hai Tám với tiêu chí mang đến cho các khách hàng những sản phẩm có công nghệ mới nhất,  có độ an toàn cao và dịch vụ kỹ thuật chất lượng, chúng tôi hiện là nhà phân phối chính thức tại Việt nam các sản phẩm của các nhà sản xuất hàng đầu thế giới như: Guardian Telecom Inc. (Canada), ECOM Intruments GmbH (Germany), ENTEL UK Limited (UK), HADAR (UK), CorDEX Instruments (UK), MARECHAL (France), RIG-A-LITE (USA), v.v... Công ty TNHH Hai Hai Tám là đối tác đáng tin cậy, cung cấp tư vấn, thiết kế, cung cấp thiết bị, giải pháp chìa khóa trao tay, tích hợp hệ thống, dịch vụ kỹ thuật và đào tạo cho nhiều cơ quan nhà nước, doanh nghiệp và tổ chức tại Việt Nam, bao gồm:",
+    "sectors": {
+      "govPrivate": "Các tổ chức nhà nước và tư nhân",
+      "atm": "Quản lý không lưu",
+      "oilGas": "Dầu khí",
+      "defense": "Bộ Quốc phòng / Quân đội",
+      "hotels": "Khách sạn",
+      "transport": "Các công ty vận tải",
+      "intlOrgs": "Các tổ chức và công ty quốc tế",
+      "govBodies": "Các cơ quan chính phủ"
+    }
+  },
+  "ContactPage": {
+    "errors": {
+      "name": "Họ và tên phải có ít nhất 2 ký tự",
+      "phone": "Số điện thoại phải bắt đầu bằng 0 và có 10 chữ số",
+      "company": "Tên công ty phải có ít nhất 5 ký tự",
+      "companyAddress": "Địa chỉ công ty phải có ít nhất 10 ký tự",
+      "email": "Vui lòng nhập địa chỉ email hợp lệ",
+      "productQuotation": "Vui lòng chọn loại báo giá",
+      "inquiry": "Nội dung yêu cầu phải có ít nhất 20 ký tự"
+    },
+    "error": "Có lỗi khi gửi yêu cầu",
+    "title": "LIÊN HỆ",
+    "subtitle": "GỬI YÊU CẦU TỚI CHÚNG TÔI",
+    "name": "Họ và tên",
+    "phone": "Điện thoại",
+    "company": "Công ty",
+    "companyAddress": "Địa chỉ công ty",
+    "productQuotation": "Báo giá sản phẩm",
+    "interest": "Sản phẩm quan tâm (nếu có)",
+    "inquiry": "Nội dung yêu cầu",
+    "send": "GỬI",
+    "sending": "ĐANG GỬI",
+    "quotationOptions": {
+      "general": "Yêu cầu thông tin chung",
+      "specific": "Báo giá sản phẩm cụ thể",
+      "bulk": "Báo giá đơn hàng số lượng lớn",
+      "custom": "Giải pháp tùy chỉnh"
+    },
+    "thankYou": "Cảm ơn quý khách đã liên hệ!",
+    "ASAP": "Chúng tôi sẽ liên lạc trong thời gian sớm nhất"
+  },
+  "LocationPage": {
+    "title": "Vị trí Công ty TNHH Hai Hai Tám",
+    "message1": "Văn phòng Công ty TNHH Hai Hai Tám chỉ cách sân bay quốc tế và nội địa Tân Sơn Nhất khoảng 10 phút lái xe, và cách trung tâm TP. Hồ Chí Minh cùng khu Chợ Lớn khoảng 15 phút — là điểm dừng chân đầu tiên trên hành trình đến các thành phố lớn của Việt Nam, Lào và Campuchia.",
+    "message2": "Văn phòng công ty tọa lạc tại vị trí chiến lược, gần các trung tâm hội chợ triển lãm quốc tế lớn như Trung tâm Hội chợ Triển lãm Tân Bình (TBECC) – chỉ cách 500m, và Trung tâm Triển lãm Sân vận động Phú Thọ – cách 2km.",
+    "label": "Xem bản đồ vị trí"
+  },
+  "DocsPage": {
+    "title": "Tài liệu Công ty TNHH Hai Hai Tám",
+    "noDesc": "Tài liệu này không có mô tả chi tiết",
+    "author": "Công ty TNHH Hai Hai Tám",
+    "on": "đăng ngày",
+    "by": "bởi",
+    "back": "Quay lại tài liệu"
+  },
+  "ProductsPage": {
+    "title": "Sản phẩm của chúng tôi",
+    "comingSoon": "Danh mục sản phẩm sắp ra mắt…",
+    "checkBack": "Vui lòng quay lại sau để xem danh sách sản phẩm đầy đủ."
+  },
+  "CustomersPage": {
+    "title": "Khách hàng của chúng tôi",
+    "comingSoon": "Trang khách hàng sắp ra mắt…",
+    "checkBack": "Vui lòng quay lại sau để xem các đối tác của chúng tôi."
+  }
+}

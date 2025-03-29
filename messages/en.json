@@ -1,0 +1,123 @@
+{
+  "Footer": {
+    "companyName": "TWO TWO EIGHT CO., LTD.",
+    "address": "1073/28 Cach Mang Thang 8 Street, Ward 7, Tan Binh District, Ho Chi Minh City, Vietnam",
+    "telephone": "TELEPHONE",
+    "hotline": "HOTLINE",
+    "copyright": "Copyright © 2026 228 Co., Ltd. All rights reserved"
+  },
+  "Header": {
+    "companyName": "Two Two Eight Co., Ltd."
+  },
+  "LocaleSwitcher": {
+    "locale": "{locale, select, vi {🇻🇳 VIE} en {🇺🇸 ENG} other {}}"
+  },
+  "NavBar": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "customers": "Customers",
+    "contact": "Contact",
+    "location": "Location",
+    "docs": "Documents"
+  },
+  "HomePage": {
+    "title": "Welcome to the official website of Two Two Eight Co., Ltd (TTEC)!",
+    "subtitle": "TWO TWO EIGHT CO., LTD (TTEC) SPECIALIZED IN INDUSTRIAL EQUIPMENT AND EXPLOSION-PROOF (HAZARDOUS AREA) SOLUTIONS.",
+    "exclusive": "Two Two Eight Co., Ltd (TTEC) proudly serves as the exclusive official distributor of explosion-proof (hazardous area) products from ECOM Instruments (Germany) in Vietnam.",
+    "message1": "We are delighted by your visit to our new website, where you can explore our company and a diverse portfolio of high-quality products.",
+    "message2": "Two Two Eight Co., Ltd (TTEC) specializes in providing industrial explosion-proof equipment and IT solutions in Vietnam.",
+    "message3": "We hope our website will be a helpful information hub for you."
+  },
+  "AboutPage": {
+    "title": "About Two Two Eight Co., Ltd (TTEC)",
+    "subtitle": "Two Two Eight Co., Ltd (TTEC) is one of the leading companies specializing in the supply of safety and explosion-proof equipment used in high-risk and harsh industrial environments such as oil & gas, petroleum, paint manufacturing, and mineral mining industries like coal, metal, and more. Since 2006, 228 Vietnam has built a professional organizational structure with a passionate, dynamic, creative, and highly qualified team.",
+    "message1": "THE PRODUCT LINES CURRENTLY DISTRIBUTED BY TWO TWO EIGHT CO., LTD (TTEC) ARE DESIGNED FOR INDUSTRIAL, HARSH, HAZARDOUS, AND EXPLOSION-PRONE ENVIRONMENTS, INCLUDING:",
+    "products": {
+      "explosionProofDeskPhone": "Desk phones: explosion-proof and industrial grade",
+      "emergencyPhone": "Emergency phones: for hazardous environments",
+      "wiredPhoneSystem": "Wired phones and communication systems: for harsh conditions",
+      "paSystem": "Industrial and explosion-proof public address systems",
+      "explosionProofMobilePhone": "GSM mobile phones: explosion-proof and industrial",
+      "walkieTalkie": "Walkie-talkies: explosion-proof and industrial",
+      "dataCollector": "Data collection devices: Pocket PCs, PDAs, and accessories for hazardous, harsh, and explosion-prone environments",
+      "explosionProofLaptop": "Notebooks and laptops: for industrial, hazardous, and explosion-proof environments",
+      "explosionProofCamera": "Explosion-proof cameras",
+      "lightingDevices": "Lighting devices: flashlights, work lights, headlamps (miner's lamps)... used in oil & gas, mining, and explosion-prone industries",
+      "explosionProofMeasurementTools": "Explosion-proof measurement instruments",
+      "industrialSockets": "Industrial and explosion-proof sockets",
+      "industrialLighting": "Fluorescent and LED lighting systems: industrial and explosion-proof",
+      "automationDevices": "Industrial and explosion-proof automation equipment",
+      "securityCamera": "Industrial and explosion-proof security cameras",
+      "controlAndConnectivity": "Industrial and explosion-proof control and connectivity devices",
+      "switchgearsAndMotors": "Industrial and explosion-proof switchgears and motors",
+      "explosionProofCables": "Explosion-proof cables and related accessories"
+    },
+    "message2": "With the mission to deliver cutting-edge technology, high safety standards, and quality technical services to our customers, we are currently the official distributor in Vietnam for globally renowned manufacturers such as: Guardian Telecom Inc. (Canada), ECOM Instruments GmbH (Germany), ENTEL UK Limited (UK), HADAR (UK), CorDEX Instruments (UK), MARECHAL (France), RIG-A-LITE (USA), and others. Two Two Eight Co., Ltd (TTEC) is a trusted partner offering consulting, design, equipment supply, turnkey solutions, system integration, technical services, and training to various government agencies, enterprises, and organizations in Vietnam, including:",
+    "sectors": {
+      "govPrivate": "Public and private organizations",
+      "atm": "Air traffic management",
+      "oilGas": "Oil & Gas",
+      "defense": "Ministry of Defense / Armed Forces",
+      "hotels": "Hotels",
+      "transport": "Transport and logistics companies",
+      "intlOrgs": "International organizations and companies",
+      "govBodies": "Government agencies"
+    }
+  },
+  "ContactPage": {
+    "errors": {
+      "name": "Name must be at least 2 characters",
+      "phone": "Phone must start with 0 and have 10 digits",
+      "company": "Company name must be at least 5 characters",
+      "companyAddress": "Company address must be at least 10 characters",
+      "email": "Please enter a valid email address",
+      "productQuotation": "Please select a product quotation type",
+      "inquiry": "Inquiry must be at least 20 characters long"
+    },
+    "error": "Error when sending request",
+    "title": "CONTACT",
+    "subtitle": "SEND INQUIRY TO US",
+    "name": "Name",
+    "phone": "Phone",
+    "company": "Company",
+    "companyAddress": "Company Address",
+    "productQuotation": "Product Quotation",
+    "interest": "Product(s) of Interest (if any)",
+    "inquiry": "Your inquiry",
+    "send": "SEND",
+    "sending": "SENDING",
+    "quotationOptions": {
+      "general": "General inquiry",
+      "specific": "Specific product quote",
+      "bulk": "Bulk order quote",
+      "custom": "Custom solution"
+    },
+    "thankYou": "Thank you for your message!",
+    "ASAP": "We will get back to you as soon as possible"
+  },
+  "LocationPage": {
+    "title": "Two Two Eight Co., Ltd (TTEC) Location",
+    "message1": "Two Two Eight Co., Ltd (TTEC) is located just 10 minutes from Tan Son Nhat International and Domestic Airport, and 15 minutes from downtown Ho Chi Minh City and China Town — the first gateway to all major cities in Vietnam, Laos, and Cambodia.",
+    "message2": "Our office is ideally situated near major international trade venues including Tan Binh Exhibition and Convention Center (TBECC) – only 500 meters away, and Phu Tho Stadium & Exhibition Center – just 2 kilometers away.",
+    "label": "Show Location Map"
+  },
+  "DocsPage": {
+    "title": "Two Two Eight Co., Ltd (TTEC) Documents",
+    "noDesc": "This document has no detailed description",
+    "author": "Two Two Eight Co., Ltd (TTEC)",
+    "on": "posted on",
+    "by": "by",
+    "back": "Back to Document"
+  },
+  "ProductsPage": {
+    "title": "Our Products",
+    "comingSoon": "Products catalog coming soon…",
+    "checkBack": "Please check back later for our full product lineup."
+  },
+  "CustomersPage": {
+    "title": "Our Customers",
+    "comingSoon": "Customer showcase coming soon…",
+    "checkBack": "Please check back later to see our valued partners."
+  }
+}
