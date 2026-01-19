@@ -6,6 +6,11 @@ import type { Locale } from "next-intl";
 import React, { type ReactNode, useTransition } from "react";
 import { usePathname, useRouter } from "@/i18n/navigation";
 
+interface LocaleSwitcherOption {
+  value: Locale;
+  children: ReactNode;
+}
+
 interface Props {
   defaultValue: string;
   children: ReactNode;
@@ -33,7 +38,7 @@ export default function LocaleSwitcherSelect({
   return (
     <div className="my-2 items-stretch gap-2">
       {React.Children.map(children, (child) => {
-        if (!React.isValidElement(child)) {
+        if (!React.isValidElement<LocaleSwitcherOption>(child)) {
           return null;
         }
 

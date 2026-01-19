@@ -6,11 +6,10 @@ import { MDXRemote } from "next-mdx-remote/rsc";
 import remarkGfm from "remark-gfm";
 import { Link } from "@/i18n/navigation";
 
-export default async function DocPage({
-  params,
-}: {
-  params: { slug: string };
+export default async function DocPage(props: {
+  params: Promise<{ slug: string }>;
 }) {
+  const params = await props.params;
   const t = await getTranslations("DocsPage");
   const locale = await getLocale();
   const filePath = join(
@@ -52,11 +51,10 @@ export default async function DocPage({
   );
 }
 
-export async function generateMetadata({
-  params,
-}: {
-  params: { slug: string; locale: string };
+export async function generateMetadata(props: {
+  params: Promise<{ slug: string; locale: string }>;
 }): Promise<Metadata> {
+  const params = await props.params;
   const filePath = join(
     process.cwd(),
     "src",
